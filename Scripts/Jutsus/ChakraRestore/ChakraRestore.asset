@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55b153c78e580a6468633771ccc19c18, type: 3}
+  m_Name: ChakraRestore
+  m_EditorClassIdentifier: 
+  name: ChakraRestore
+  cooldownTime: 1
+  reqChakra: 0
+  reqSta: 0
+  castTime: 0.25
+  ChakraRestoreRate: 2
+  ChakraRestoreprefab: {fileID: 2295562672614331201, guid: f4f0ae3863a796341a08f1db5bbcddf5, type: 3}

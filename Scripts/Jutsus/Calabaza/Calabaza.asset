@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8e694669f118b74c87cbba38fefaa76, type: 3}
+  m_Name: Calabaza
+  m_EditorClassIdentifier: 
+  name: Calabaza
+  cooldownTime: 1
+  reqChakra: 0
+  reqSta: 10
+  castTime: 1
+  Calabaza_prefab: {fileID: 2718018589329969899, guid: fae711994dde49f49954c1a647ae6114, type: 3}
+  force: 200
+  torque: 20
+  maxrange: 10
+  damage: 10
